@@ -1,6 +1,6 @@
-# Prepare scanned documents for Excel
+# Scanned PDF to Excel: prepare and review your document
 
-Readable source pages make document data easier to capture and review. Before working with a scanned PDF or a photo of a table, check the complete page and its smallest text.
+Readable source pages make document data easier to capture and review. When converting a scanned PDF to Excel, or working with a photo of a table, check the complete page and its smallest text.
 
 ## Keep the full document visible
 
@@ -33,7 +33,9 @@ Compare the row count and important values with every source page. Treat a blank
 
 ## Continue on the website
 
-Read [FOVATA's scanned PDF to Excel guidance](https://fovata.com/scanned-pdf-to-excel) for the document workflow. After exporting, use the [PDF to Excel checklist](pdf-to-excel-checklist.md) to review the workbook.
+Open the [scanned PDF to Excel workflow](https://fovata.com/scanned-pdf-to-excel) for a PDF scan, or the [image to Excel converter](https://fovata.com/image-to-excel) for a table photo or screenshot. FOVATA offers a limited free AI extraction trial on the website; check the current allowance before starting.
+
+After exporting, use the [PDF to Excel checklist](pdf-to-excel-checklist.md) to review the workbook.
 
 [Back to FOVATA Resources](../README.md)
 

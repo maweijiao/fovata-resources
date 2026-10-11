@@ -1,6 +1,6 @@
-# Invoice line items to Excel
+# Extract invoice line items to Excel
 
-An invoice usually combines information about the whole document, repeated product or service lines, and a totals section. Keeping those parts distinct makes the spreadsheet easier to filter and check.
+To extract invoice line items from a PDF to Excel, separate information about the whole document from repeated product or service lines and the totals section. Keeping those parts distinct makes the spreadsheet easier to filter and check.
 
 ## Start with the intended table
 
@@ -30,9 +30,9 @@ For combined files, keep the source filename and page reference in the working t
 
 ## Continue on the website
 
-Use the [FOVATA commercial invoice workflow](https://fovata.com/solutions/commercial-invoice-pdf-to-excel) for the document task, then check the workbook against the original invoice.
+Try the [commercial invoice PDF to Excel workflow](https://fovata.com/solutions/commercial-invoice-pdf-to-excel) on the FOVATA website, then check the workbook against the original invoice. The page includes a limited free AI extraction trial; see the allowance displayed before starting.
 
-See the [PDF to Excel checklist](pdf-to-excel-checklist.md) for general workbook checks.
+See the [PDF to Excel checklist](pdf-to-excel-checklist.md) for general workbook checks, or [choose fields for AI PDF data extraction](ai-pdf-data-extraction.md).
 
 [Back to FOVATA Resources](../README.md)
 

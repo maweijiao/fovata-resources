@@ -1,6 +1,6 @@
-# PDF to Excel checklist
+# Convert PDF to Excel free: a workbook checklist
 
-A useful spreadsheet needs complete rows, correctly placed values, and clear column meanings. Use this checklist before conversion and when reviewing the workbook.
+A useful spreadsheet needs complete rows, correctly placed values, and clear column meanings. When you convert PDF to Excel online, use this checklist before conversion and when reviewing the workbook.
 
 ## 1. Check the source
 
@@ -27,9 +27,11 @@ If a table crosses a page boundary, check the last row of one page against the f
 
 Leave unclear values for review rather than filling them from context. When making a correction, record the original value and the source page so someone else can check it.
 
-## Use the checklist
+## Try the free PDF to Excel converter
 
-Open [FOVATA PDF to Excel](https://fovata.com/pdf-to-excel) to work with your document, then compare the export with the source using the checks above.
+Open the [free PDF to Excel converter](https://fovata.com/pdf-to-excel) to work with your document without creating an account. Guest usage limits apply; the current allowance is shown on the website. Compare the export with the source using the checks above.
+
+If your spreadsheet needs selected business fields, continue with [AI PDF data extraction](ai-pdf-data-extraction.md).
 
 For item-level documents, continue with [invoice line items to Excel](invoice-line-items-to-excel.md). For image-only pages, see [scanned document preparation](scanned-document-preparation.md).
 

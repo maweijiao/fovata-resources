@@ -1,22 +1,41 @@
-# FOVATA Resources
+# FOVATA: Free PDF to Excel Converter and AI Data Extraction
 
-Practical guides for PDF to Excel, invoice data, and spreadsheet review.
+Convert PDF to Excel online free, or extract the specific information your spreadsheet needs with AI document data extraction. [FOVATA](https://fovata.com/landing) supports workflows for PDFs, scanned documents, images, invoices, bank statements, and air waybills.
 
-[FOVATA](https://fovata.com/landing) helps you convert PDFs and images to Excel and extract the document fields you need. This collection focuses on preparing source documents and checking the resulting tables. To use the tools, visit the FOVATA website.
+**[Convert PDF to Excel free](https://fovata.com/pdf-to-excel)** · **[Try AI data extraction free](https://fovata.com/ai-document-data-extraction#solution-ai-extraction)**
 
-## Document workflow guides
+No account required for guest conversion. AI extraction has a separate, limited free guest trial. Use the tools directly on the FOVATA website.
+
+## What can you try for free?
+
+| Free option | What to expect |
+| --- | --- |
+| PDF or image to Excel | Free guest conversion without creating an account. Supported inputs include PDF, JPG, PNG, and WebP. |
+| AI PDF data extraction | A free guest trial for selected fields and records. This trial is separate from free PDF conversion. |
+| [Free account](https://fovata.com/login?mode=register) | Create a free account to access AI trial credits and account features. |
+
+Free usage limits apply. See the website for current allowances and [account trial terms](https://fovata.com/landing#pricing).
+
+## Choose your document workflow
+
+| Your task | Continue on FOVATA |
+| --- | --- |
+| Convert a PDF table to an Excel workbook | [Free PDF to Excel converter](https://fovata.com/pdf-to-excel) |
+| Extract selected fields instead of copying the whole table | [AI document data extraction](https://fovata.com/ai-document-data-extraction) |
+| Work with a scanned document | [Scanned PDF to Excel](https://fovata.com/scanned-pdf-to-excel) |
+| Turn a photo or screenshot into spreadsheet data | [Image to Excel converter](https://fovata.com/image-to-excel) |
+| Organize invoice details and item rows | [Commercial invoice PDF to Excel](https://fovata.com/solutions/commercial-invoice-pdf-to-excel) |
+| Prepare a transaction table for review | [Bank statement PDF to Excel](https://fovata.com/solutions/bank-statement-pdf-to-excel) |
+| Capture shipment references, routes, pieces, and weights | [Air waybill PDF to Excel](https://fovata.com/solutions/air-waybill-pdf-to-excel) |
+
+## Practical document guides
 
 | Guide | What you will learn |
 | --- | --- |
-| [PDF to Excel checklist](guides/pdf-to-excel-checklist.md) | Choose the right starting file and check rows, columns, dates, and amounts. |
-| [Invoice line items to Excel](guides/invoice-line-items-to-excel.md) | Keep invoice details, item rows, and totals organized for review. |
-| [Prepare scanned documents for Excel](guides/scanned-document-preparation.md) | Improve page readability and spot common problems before conversion. |
-
-## Choose your starting point
-
-- **You need a table from a PDF:** start with the [PDF to Excel converter](https://fovata.com/pdf-to-excel).
-- **Your source is a scan or photo:** read the [scanned PDF to Excel guide](https://fovata.com/scanned-pdf-to-excel).
-- **You need selected invoice fields:** explore the [commercial invoice workflow](https://fovata.com/solutions/commercial-invoice-pdf-to-excel).
+| [Convert PDF to Excel free: a workbook checklist](guides/pdf-to-excel-checklist.md) | Prepare the file and check rows, columns, dates, and amounts. |
+| [AI PDF data extraction: choose the fields you need](guides/ai-pdf-data-extraction.md) | Name useful business fields and decide what each spreadsheet row represents. |
+| [Extract invoice line items to Excel](guides/invoice-line-items-to-excel.md) | Keep invoice details, item rows, and totals organized for review. |
+| [Scanned PDF to Excel: prepare and review your document](guides/scanned-document-preparation.md) | Improve page readability and check common scan and photo problems. |
 
 ## Practice with public examples
 
